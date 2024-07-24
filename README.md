@@ -1,5 +1,4 @@
-# Summer-24-LC
-Summer 2024 Leetcode
+## Leetcode Solution
 
 - Each folder contains the solutions in any language I have done them in.
 - Each solution file also contains the runtime (% beat), memory (% beat).
